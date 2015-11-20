@@ -1,0 +1,29 @@
+{
+    "name"           : "pasty",
+    "version"        : "1.0.0",
+    "description"    : "A quick paste tool for special characters",
+    "main"           : "static/js/main.min.js",
+    "scripts"        : {
+        "start": "electron static/js/main.min.js"
+    },
+    "repository"     : {
+        "type": "git",
+        "url" : "git+https://github.com/smeeckaert/pasty"
+    },
+    "author"         : "Martin Smeeckaert",
+    "bugs"           : {
+        "url": "https://github.com/smeeckaert/pasty/issues"
+    },
+    "homepage"       : "https://github.com/smeeckaert/pasty#readme",
+    "devDependencies": {
+        "electron-prebuilt"   : "^0.34.0",
+        "grunt"               : "",
+        "grunt-cli"           : "",
+        "grunt-contrib-watch" : "",
+        "grunt-contrib-uglify": "",
+        "grunt-sass"          : "",
+        "grunt-browser-sync"  : "",
+        "grunt-run"           : "",
+        "assemble"            : ""
+    }
+}
