@@ -23,6 +23,7 @@
         "grunt-contrib-uglify": "",
         "grunt-sass"          : "",
         "grunt-browser-sync"  : "",
+        "bower"               : "",
         "grunt-run"           : "",
         "assemble"            : ""
     }
