@@ -1,13 +1,13 @@
 {
-  "name": "foundation-sites-template",
+  "name": "pasty",
   "version": "1.0.0",
   "authors": [
-    "ZURB <foundation@zurb.com>"
+    "Martin Smeeckaert <martin@smeeckaert.com>"
   ],
-  "description": "Basic template for a new Foundation for Sites project.",
+  "description": "",
   "main": "index.html",
-  "license": "MIT",
-  "homepage": "http://foundation.zurb.com",
+  "license": "",
+  "homepage": "",
   "dependencies": {
     "foundation-sites": "~6.0.0",
     "motion-ui": "~1.1.0"
@@ -19,5 +19,5 @@
     "test",
     "tests"
   ],
-  "private": true
+  "private": false
 }
